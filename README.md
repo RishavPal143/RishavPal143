@@ -68,8 +68,8 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishavPal143/RishavPal143/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman graph" src="https://raw.githubusercontent.com/RishavPal143/RishavPal143/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishavPal143/RishavPal143/output/pacman-dark.svg">
+  <img alt="pacman graph" src="https://raw.githubusercontent.com/RishavPal143/RishavPal143/output/pacman.svg">
 </picture>
 
 ---
