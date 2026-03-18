@@ -1,16 +1,23 @@
-# 💫 About Me:
-🚀 Building AI that understands humans better than humans do  
-🎓 Just a student on paper… but constantly experimenting beyond limits  
-🤖 Currently working on Human Personality Prediction using digital behavior  
-💻 I don’t just code — I break, rebuild, and optimize ideas  
+# 🥷🏻About Me:
 
-🧑‍💻 Not just a coder — I turn ideas into reality  
-🧠 Not just a thinker — I challenge how machines think  
+🤖 Currently trying to make AI understand personality better than your best friend
+
+🎓 Just a student on paper…  
+
+🧠 I’m obsessed with how humans think — and how machines can learn it
+
+💻 I don’t just code — I break, rebuild, and optimize ideas  
+.
+.
+
+🧑‍💻 Not just a coder 
+🧠 Not just a thinker 
 
 ---
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavpal1098@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishav-pal-5a4213280)
 
 ---
 
@@ -39,7 +46,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 
 ### ☁️ Cloud & Backend:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -74,4 +81,3 @@
 
 ---
 
-⚡ I don’t follow trends — I experiment, break, and create my own.
