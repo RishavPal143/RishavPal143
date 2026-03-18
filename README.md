@@ -21,18 +21,6 @@
 
 ---
 
-# 🚀 Projects:
-- 🧠 **Human Personality Predictor**  
-  Predicts personality using typing patterns, browsing behavior & text data  
-
-- 🤖 **AI Experiments Lab**  
-  Testing unconventional ML ideas and behavioral models  
-
-- 🌐 **Full Stack Web Apps**  
-  Scalable apps using React, Firebase, and modern cloud tools  
-
----
-
 # 💻 Tech Stack:
 
 ### 🧑‍💻 Languages:
