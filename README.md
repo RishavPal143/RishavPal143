@@ -6,11 +6,11 @@
 
 🧠 I’m obsessed with how humans think — and how machines can learn it
 
-💻 I don’t just code — I break, rebuild, and optimize ideas  
-.
-.
+💻 I don’t just code — I break, rebuild, and optimize ideas  <br>
+.<br>
+.<br>
 
-🧑‍💻 Not just a coder 
+🧑‍💻 Not just a coder <br>
 🧠 Not just a thinker 
 
 ---
