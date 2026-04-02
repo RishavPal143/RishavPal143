@@ -12,7 +12,7 @@
 
 🧑‍💻 Not just a coder <br>
 🧠 Not just a thinker 
-🏳️‍🌈💋 I am GAY
+
 ---
 
 ## 🌐 Socials:
